@@ -1,0 +1,16 @@
+id,name,category,price,quantity
+1,Produk A,Kategori A,100.0,10
+2,Produk B,Kategori B,200.0,5
+3,Produk C,Kategori C,150.0,20
+4,Mouse Wireless,Kategori Elektronik,120.0,25
+5,Keyboard Mechanical,Kategori Elektronik,350.0,15
+6,Buku Tulis,Kategori Alat Tulis,15.0,100
+7,Pensil Warna,Kategori Alat Tulis,25.0,60
+8,Minuman Botol,Kategori Makanan,10.0,200
+9,Mie Instan,Kategori Makanan,5.0,300
+10,Laptop ASUS,Kategori Elektronik,7500.0,8
+11,Monitor 24 inch,Kategori Elektronik,1250.0,12
+12,Sabun Mandi,Kategori Kebutuhan Harian,12.5,150
+13,Shampoo 200ml,Kategori Kebutuhan Harian,18.0,80
+14,Flashdisk 32GB,Kategori Elektronik,90.0,40
+15,Lem Kertas,Kategori Alat Tulis,8.0,75
